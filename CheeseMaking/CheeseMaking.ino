@@ -1,7 +1,6 @@
 #include <LiquidCrystal.h>
 #include <DHT.h>
 
-//This is a test
 #define DHTPIN 2
 #define DHTTYPE DHT11
 #define RELAY1 10
