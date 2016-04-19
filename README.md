@@ -9,7 +9,7 @@ Here is what I will be using for this project :
 - LCD Keypad
 - DHT11 Sensor
 - Dual Relay board
-- An humidifier
+- A humidifier
 - A heat bed ? Not sure about what I'll be using.
 
 19/04/2016 : The project is now finished, enhancements could easily be done, but it's working so... That's it for me !
