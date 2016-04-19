@@ -7,7 +7,7 @@ CheeseMaking is not so hard, and to get good result, humidity and temperature ne
 Here is what I will be using for this project :
 - Arduino Uno
 - LCD Keypad
-- DHT11 Sensor
+- DHT11/DHT22 Sensor
 - Dual Relay board
 - A humidifier
 - A heat bed ? Not sure about what I'll be using.
