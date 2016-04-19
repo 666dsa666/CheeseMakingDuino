@@ -12,6 +12,8 @@ Here is what I will be using for this project :
 - An humidifier
 - A heat bed ? Not sure about what I'll be using.
 
+19/04/2016 : The project is now finished, enhancements could easily be done, but it's working so... That's it for me !
+
 08/04/2016 : Initial upload, not tested. Compile but might not work correctly.
 -
 
